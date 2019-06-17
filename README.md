@@ -1,12 +1,9 @@
 # jennabu
-Repository for the python program "jennabu". 
 
-The ways to be initialized are:
+This code have two ways to be initialized are:
 
-\begin{itemize}
-	\item \textbf{jennabuNIST:} Using the JANAF-NIST thermochemical potentials coefficients.
-	\item \textbf{jennabuCEA:} Using the CEA thermochemical potentials coefficients. 
-\end{itemize}
+#[jennabuNIST:] Using the JANAF-NIST thermochemical potentials coefficients.
+#[jennabuCEA:] Using the CEA thermochemical potentials coefficients. 
 
 Hence the difference between these two ways to initialize \texttt{jennabu} falls on the values of the standard enthalpy of formation, $H^{\degree}_{298}$ (at the reference temperature of $298.15\,K$ and pressure of $1\,bar$), in addition to the coefficients and integrations constants for enthalpy ($H^{\degree}$) and entropy ($S^{\degree}$).  \\
 
