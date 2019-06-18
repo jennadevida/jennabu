@@ -18,10 +18,10 @@ The modes of the program are:
 
 **jennabu** is a code that runs on Python3. To initialize the program all you have to do is to write in the terminal:
 ```
-python3 jennabuCEAdata.py
+python3 jennabu_CEAdata.py
 ```
 to initialize jennabuCEA, or 
 ```
-python3 jennabuNISTdata.py
+python3 jennabu_NISTdata.py
 ```
 to initialize jennabuNIST.
